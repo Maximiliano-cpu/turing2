@@ -1,0 +1,39 @@
+body {
+    background-color: #white;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    background-color: #CECACA;
+    color: #020202;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h5 {
+    background-color: #8FE7F5;
+    color: #020202;
+    font-size: 150%;
+    text-align: justify-all;
+}
+
+img{ 
+display: block;
+margin: auto;
+ }
+
+
+h4{
+
+background-color: #8FE7F5;
+	text-align: center;
+}
+
+p{
+font-family: fantasy;
+
+
+}
+
